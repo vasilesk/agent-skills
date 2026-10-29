@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "vasilesk",
+  "description": "Personal Agent Skills by vasilesk, packaged as Claude Code plugins",
+  "owner": {
+    "name": "Vasilii Morozov",
+    "url": "https://github.com/vasilesk"
+  },
+  "plugins": [
+    {
+      "name": "coding-rules",
+      "description": "Coding rules as Agent Skills: general programming conventions, Go coding conventions, and a hexagonal project layout sliced by bounded contexts.",
+      "source": {
+        "source": "github",
+        "repo": "vasilesk/coding-rules"
+      },
+      "homepage": "https://github.com/vasilesk/coding-rules",
+      "category": "development"
+    }
+  ]
+}
