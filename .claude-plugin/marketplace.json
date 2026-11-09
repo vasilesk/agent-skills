@@ -12,7 +12,8 @@
       "description": "Coding rules as Agent Skills: general programming conventions, Go coding conventions, and a hexagonal project layout sliced by bounded contexts.",
       "source": {
         "source": "github",
-        "repo": "vasilesk/coding-rules"
+        "repo": "vasilesk/coding-rules",
+        "sha": "42ba1ac37ba35922617fcbcb15cb9a5dfd516eea"
       },
       "homepage": "https://github.com/vasilesk/coding-rules",
       "category": "development"
